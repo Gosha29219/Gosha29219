@@ -1,5 +1,6 @@
 # Gosha29219
 Пример простой веб-страницы
+![alt text](image-1.png)
 <!DOCTYPE html>
 <html>
 <head>
